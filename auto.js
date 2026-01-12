@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name          HH3D - Menu Tùy Chỉnh
 // @namespace     Tampermonkey
-// @version       5.5.2
+// @version       5.5.2.1
 // @description   Thêm menu tùy chỉnh với các liên kết hữu ích và các chức năng tự động
 // @author        Dr. Trune
-// @match         https://hoathinh3d.li/*
+// @match         https://hoathinh3d.moi/*
 // @require       https://cdn.jsdelivr.net/npm/sweetalert2@11.26.12/dist/sweetalert2.all.min.js
 // @run-at        document-start
 // @grant         unsafeWindow
@@ -18333,3 +18333,4 @@ function _0x3392() {
 }
 (location[_0x22651a(0x217, 0xb2, -0x15d, 0xb18)]['includes'](_0x3be4d1(0x12ab, 0x120b, 0x5bc, 0x76a) + 'h') || location[_0x22651a(0xa40, 0xa7e, 0xe0e, 0x908)][_0x3be4d1(0xb65, 0x1d0e, 0x1ba0, 0x14e6)](_0x22651a(0xac7, 0x9e1, 0xf91, 0x912) + 'h')) && _0x5909d5['startUp']();
 })();
+
